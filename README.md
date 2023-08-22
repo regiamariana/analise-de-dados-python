@@ -5,3 +5,7 @@ Repositório para armazenar minha evolução em análise de dados no curso Santa
 ```
 Hello, World!!
 ```
+
+
+| aulas | exercícios |
+|-------|------------|
